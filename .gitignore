@@ -1,0 +1,15 @@
+# Environment files
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Build artifacts
+/bin/
+/obj/
+*.exe
+*.dll
+*.log
